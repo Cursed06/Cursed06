@@ -2,9 +2,12 @@
 - 👀 I’m interested in
       - Programming
       - Music
-      - Gaming
 - 🌱 I’m currently learning
       - C
+      - Java
+      - Python
+      - Typescript
+      - Dart
 - 📫 How to reach me
       - Instagram
       - Discord
